@@ -1,0 +1,63 @@
+<head>
+  <title>Conductor</title>
+</head>
+
+<body>
+	<div class='usermenu'>
+				
+				{{> usermenu}}
+				
+				<div>{{loginButtons}}</div>
+				
+			</div>
+	<div id="container">
+			
+			<div class='description'>
+				{{> main}}
+			</div>
+
+			<div class='art'>
+			</div>
+			
+			<br/>
+		
+			<div class='choices'>
+				{{> below}}
+			</div>
+			
+			<div class='debug'>
+				{{> debug}}
+			</div>
+	</div>
+</body>
+<template name="usermenu">
+	
+	<input type="button" class="save" value="Save"></input>
+	
+	<input type="button" class="load" value="Load"></input>
+	
+</template>
+
+<template name="main">
+	<div>
+		{{#each desc}}
+			<p>{{this}}</p>
+		{{/each}}
+	</div>
+</template>
+
+<template name="below">
+
+	{{#each choice}}
+		{{#if valid}}
+		<!-- <input type="button" class={{this.clas}} Value={{this.name}}><br/> !-->
+		<p class= {{this.clas}} > {{this.name}} </p>
+		{{else}}
+		<p class="choose0">{{this.unavailable}}</p>
+		{{/if}}
+	{{/each}}
+</template>
+
+<template name="debug">
+  <p>{{objects}}</p>
+</template>

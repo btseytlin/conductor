@@ -1,0 +1,13 @@
+intro_text: 
+"This is the world of the day after tomorow.\n Once as powerfull and mighty as corrupted and sinned, the hummanity has driven itself into a dead end.
+Since the catastrophe Earth has been populated by terrible creatures, polluted by radiation and other hazards, mostly turned into deserts or dangerous enviroments not yet inspected by mankind. 
+\nHumans, as usual, survived. Slowly, year after year, they regained lost pieces of culture and progress. Due to harsh enviroment huge fortresses became the only places where people lived. 
+These cities, with their own societies and goverments, covered new continents with a pattern of chaotically placed dots.  
+\nMost people never go outside the walls of their city. Because outside there is only death for them. 
+\nFor a long time the settlements were completely separated from eachother. But as technology progressed and needs expanded politics started to reappear on desolated lands. 
+That produced a high need for a way to transfer information between strongholds. To satisfy that very need a new profession was born."
+
+intro_text_1:
+"\nThe conductors. 
+They were the ones, who could cross thousand miles, slipping past all dangers of the new world, from one city to another. All alone. They always do it alone, because a lone man can easily pass somewhere, where even an armed squad would fail. 
+\nYou are one of them. You are a Condutor, the only thing that connects cities together and allows for information to transfer. You are armed with a great deal of experience, ability to defend yourself, a steel nerve and knowledge of such things as physics, biology, medicine and many more."
